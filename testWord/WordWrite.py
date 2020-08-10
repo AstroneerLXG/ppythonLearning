@@ -41,4 +41,4 @@ for i in companyList:
     run4.font.size = Pt(14)
     run2.font.bold = True
 
-    newDocument.save('C:/Users/aby/Desktop/%s-价格通知.docx' % i)
+    newDocument.save('C:/Users/Abyss/Desktop/%s-价格通知.docx' % i)
